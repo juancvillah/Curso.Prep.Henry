@@ -1,0 +1,5 @@
+Variables. Son estructuras que me permiten almacenar valores
+Strings. Son valores no numericos
+Funciones. Son herramientas que puedo invocar para poder obtener algun resultadoen base a los argumentos que le envie
+If. Condicional.
+Valores booleanos, son valores de verdad que solo pueden ser verdadero o falso

@@ -1,0 +1,8 @@
+for, permite definir un ciclo que terminara, cuando se cumpla una condicion.
+
+&& Operador que evalua si estas diciendo la verdad cuando usas 2 expresiones. Las dos expresiones tienen que ser verdaderas, para que se considere que es verdad lo que estas diciendo
+
+|| Operador que evalua si estas diciendo la verdad cuando usas 2 expresiones. Basta con que una de las expresiones sea verdad para que se considere que es verdad lo que estas diciendo
+
+! Operador que invierte el valor de verdad que se este utilizando
+

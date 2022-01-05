@@ -1,0 +1,1 @@
+arrays, son conjntos de datos que pueden ser manejados con push y pop, si se desea aumentar o eliminiar datos del final del conjunto y unshift y shift para agregar o eliminar elementos al comienzo del conjunto 

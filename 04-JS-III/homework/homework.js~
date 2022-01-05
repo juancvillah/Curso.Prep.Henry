@@ -63,7 +63,7 @@ function dePalabrasAFrase(palabras) {
 	for (let i = 0; i < palabras.length - 1 ;i++) {
 		cadena = cadena + palabras[i] + " ";
 	}
-	cadena = cadena + palabras[palabras.length -1];
+	cadena = cadena + palabras + [palabras.length -1];
 	return cadena;
 }
 
